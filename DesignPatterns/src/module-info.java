@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jyotiprakashjena
+ *
+ */
+module DesignPatterns {
+}
