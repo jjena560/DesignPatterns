@@ -13,5 +13,9 @@ public class EmployeeAdpater implements IPhoneListSource{
 		// TODO Auto-generated method stub
 		return empDS.getEmployees();
 	}
+	
+	static void printNum() {
+		System.out.println("Hello");
+	}
 
 }
