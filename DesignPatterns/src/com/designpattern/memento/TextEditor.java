@@ -41,4 +41,8 @@ public class TextEditor {
 	public String getText() {
 		return text;
 	}
+
+	public int getCursorPosition() {
+		return this.cursorPosition;
+	}
 }
